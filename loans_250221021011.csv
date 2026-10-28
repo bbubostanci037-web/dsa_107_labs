@@ -1,0 +1,1194 @@
+loan_id,member_type,faculty,days_kept,renewals,returned_late
+L000001,undergraduate,Bilişim Teknolojileri,26,0,False
+L000002,postgraduate,Mimarlık,36,1,False
+L000003,undergraduate,Bilişim Teknolojileri,10,0,False
+L000004,undergraduate,Temel Bilimler,11,2,True
+L000005,undergraduate,Sosyal Bilimler,13,2,True
+L000006,undergraduate,Mühendislik,11,1,False
+L000007,postgraduate,Temel Bilimler,26,1,False
+L000008,postgraduate,Mühendislik,18,0,True
+L000009,postgraduate,Bilişim Teknolojileri,19,0,False
+L000010,staff,Bilişim Teknolojileri,30,2,False
+L000011,undergraduate,Mühendislik,14,1,True
+L000012,undergraduate,Temel Bilimler,7,1,True
+L000013,undergraduate,Mimarlık,30,1,False
+L000014,undergraduate,Mimarlık,,1,False
+L000015,postgraduate,Bilişim Teknolojileri,11,1,False
+L000016,undergraduate,Mühendislik,11,0,True
+L000017,undergraduate,Mimarlık,13,0,False
+L000018,undergraduate,İşletme,7,1,False
+L000019,staff,Bilişim Teknolojileri,19,3,False
+L000020,undergraduate,Mühendislik,4,1,False
+L000021,undergraduate,Mimarlık,27,0,False
+L000022,undergraduate,İşletme,,1,False
+L000023,undergraduate,İşletme,18,1,True
+L000024,postgraduate,Mühendislik,18,0,True
+L000025,undergraduate,Mimarlık,20,1,False
+L000026,postgraduate,Sosyal Bilimler,12,2,False
+L000027,undergraduate,Mimarlık,27,0,False
+L000028,undergraduate,Mühendislik,22,1,False
+L000029,undergraduate,Temel Bilimler,12,0,False
+L000030,undergraduate,Sosyal Bilimler,7,1,False
+L000031,undergraduate,Temel Bilimler,15,0,False
+L000032,undergraduate,Temel Bilimler,8,1,False
+L000033,undergraduate,Sosyal Bilimler,15,1,True
+L000034,staff,Mimarlık,20,2,False
+L000035,undergraduate,İşletme,9,0,False
+L000036,staff,Mimarlık,22,2,False
+L000037,undergraduate,İşletme,8,1,True
+L000038,undergraduate,Mimarlık,34,0,True
+L000039,undergraduate,Bilişim Teknolojileri,6,2,True
+L000040,undergraduate,İşletme,8,0,False
+L000041,postgraduate,İşletme,15,1,False
+L000042,undergraduate,Mühendislik,11,1,False
+L000043,undergraduate,Temel Bilimler,3,1,False
+L000044,postgraduate,Mühendislik,23,1,True
+L000045,undergraduate,İşletme,7,1,False
+L000046,undergraduate,Mühendislik,17,0,False
+L000047,postgraduate,Bilişim Teknolojileri,14,2,False
+L000048,staff,İşletme,,0,False
+L000049,undergraduate,İşletme,8,0,False
+L000050,postgraduate,Bilişim Teknolojileri,36,0,False
+L000051,undergraduate,Mimarlık,20,1,True
+L000052,undergraduate,Mühendislik,13,1,False
+L000053,undergraduate,Sosyal Bilimler,25,0,False
+L000054,postgraduate,Mimarlık,24,2,True
+L000055,staff,Sosyal Bilimler,16,2,True
+L000056,staff,Mimarlık,33,1,False
+L000057,undergraduate,Temel Bilimler,9,0,True
+L000058,postgraduate,İşletme,14,1,False
+L000059,postgraduate,Mühendislik,15,2,False
+L000060,postgraduate,Temel Bilimler,13,1,False
+L000061,postgraduate,Temel Bilimler,8,0,False
+L000062,postgraduate,Bilişim Teknolojileri,21,0,True
+L000063,postgraduate,Temel Bilimler,31,0,False
+L000064,undergraduate,Sosyal Bilimler,10,0,False
+L000065,staff,Bilişim Teknolojileri,29,0,False
+L000066,undergraduate,Mühendislik,7,1,True
+L000067,staff,Mimarlık,10,2,False
+L000068,undergraduate,Bilişim Teknolojileri,17,1,False
+L000069,staff,Mimarlık,22,2,False
+L000070,postgraduate,Temel Bilimler,17,1,False
+L000071,staff,İşletme,16,0,False
+L000072,undergraduate,Temel Bilimler,,0,False
+L000073,undergraduate,Bilişim Teknolojileri,22,1,True
+L000074,undergraduate,Mimarlık,18,1,False
+L000075,undergraduate,Temel Bilimler,8,2,False
+L000076,postgraduate,İşletme,16,1,True
+L000077,undergraduate,Mühendislik,15,2,True
+L000078,postgraduate,Sosyal Bilimler,32,0,False
+L000079,staff,Mimarlık,30,0,False
+L000080,undergraduate,Sosyal Bilimler,8,0,False
+L000081,staff,İşletme,41,1,True
+L000082,postgraduate,Mimarlık,25,0,True
+L000083,postgraduate,Mimarlık,13,1,False
+L000084,postgraduate,Bilişim Teknolojileri,17,1,False
+L000085,undergraduate,Bilişim Teknolojileri,33,0,False
+L000086,undergraduate,İşletme,5,0,False
+L000087,staff,Temel Bilimler,18,2,True
+L000088,staff,Mimarlık,30,2,False
+L000089,postgraduate,Mimarlık,9,0,True
+L000090,postgraduate,Mimarlık,31,1,False
+L000091,undergraduate,İşletme,9,1,False
+L000092,undergraduate,Mühendislik,8,1,False
+L000093,undergraduate,Sosyal Bilimler,,1,False
+L000094,staff,Temel Bilimler,,2,False
+L000095,postgraduate,İşletme,22,1,True
+L000096,undergraduate,Mühendislik,23,1,True
+L000097,postgraduate,İşletme,,1,False
+L000098,undergraduate,Mimarlık,10,1,False
+L000099,undergraduate,Temel Bilimler,14,1,False
+L000100,staff,Sosyal Bilimler,16,2,False
+L000101,undergraduate,Mimarlık,15,0,True
+L000102,postgraduate,Sosyal Bilimler,25,0,True
+L000103,undergraduate,İşletme,8,1,False
+L000104,undergraduate,Temel Bilimler,4,0,True
+L000105,staff,Bilişim Teknolojileri,30,2,False
+L000106,undergraduate,İşletme,9,1,False
+L000107,undergraduate,Mimarlık,8,1,True
+L000108,undergraduate,Mühendislik,8,1,True
+L000109,undergraduate,Bilişim Teknolojileri,8,2,True
+L000110,postgraduate,Bilişim Teknolojileri,15,2,False
+L000111,undergraduate,Mühendislik,5,1,False
+L000112,postgraduate,Mühendislik,14,1,True
+L000113,undergraduate,Bilişim Teknolojileri,9,1,False
+L000114,undergraduate,İşletme,12,2,False
+L000115,undergraduate,Bilişim Teknolojileri,8,2,False
+L000116,postgraduate,Mühendislik,9,0,False
+L000117,undergraduate,Mühendislik,23,1,True
+L000118,undergraduate,Sosyal Bilimler,15,1,False
+L000119,postgraduate,Sosyal Bilimler,12,1,False
+L000120,postgraduate,Sosyal Bilimler,,0,False
+L000121,postgraduate,Bilişim Teknolojileri,14,1,True
+L000122,undergraduate,Temel Bilimler,12,1,False
+L000123,undergraduate,İşletme,,2,False
+L000124,undergraduate,Sosyal Bilimler,15,0,True
+L000125,postgraduate,Bilişim Teknolojileri,15,1,True
+L000126,undergraduate,Temel Bilimler,8,0,False
+L000127,undergraduate,Mimarlık,8,0,False
+L000128,undergraduate,Bilişim Teknolojileri,5,2,False
+L000129,postgraduate,Sosyal Bilimler,17,1,False
+L000130,postgraduate,Bilişim Teknolojileri,46,0,False
+L000131,undergraduate,Bilişim Teknolojileri,8,1,True
+L000132,staff,Mühendislik,17,3,False
+L000133,undergraduate,Mimarlık,16,0,True
+L000134,staff,Bilişim Teknolojileri,23,0,False
+L000135,undergraduate,Bilişim Teknolojileri,9,1,False
+L000136,postgraduate,Temel Bilimler,13,0,True
+L000137,undergraduate,Temel Bilimler,8,0,False
+L000138,undergraduate,Mimarlık,15,0,False
+L000139,undergraduate,Mimarlık,12,0,False
+L000140,undergraduate,İşletme,13,0,False
+L000141,postgraduate,Mühendislik,13,1,False
+L000142,undergraduate,Mühendislik,20,3,False
+L000143,undergraduate,Sosyal Bilimler,9,2,False
+L000144,undergraduate,İşletme,18,0,False
+L000145,undergraduate,Temel Bilimler,13,1,False
+L000146,undergraduate,Mimarlık,35,2,True
+L000147,undergraduate,Bilişim Teknolojileri,14,1,True
+L000148,staff,İşletme,16,0,False
+L000149,staff,İşletme,23,1,False
+L000150,undergraduate,Temel Bilimler,9,0,True
+L000151,undergraduate,Sosyal Bilimler,10,0,False
+L000152,postgraduate,İşletme,18,1,False
+L000153,postgraduate,Mimarlık,26,3,True
+L000154,undergraduate,Bilişim Teknolojileri,9,1,False
+L000155,undergraduate,Sosyal Bilimler,7,0,True
+L000156,undergraduate,Sosyal Bilimler,8,0,False
+L000157,undergraduate,Mimarlık,17,2,True
+L000158,undergraduate,Mühendislik,18,0,False
+L000159,postgraduate,Bilişim Teknolojileri,22,0,False
+L000160,postgraduate,Bilişim Teknolojileri,15,1,False
+L000161,undergraduate,Bilişim Teknolojileri,8,0,True
+L000162,undergraduate,Sosyal Bilimler,8,1,False
+L000163,postgraduate,Mimarlık,20,0,False
+L000164,undergraduate,Sosyal Bilimler,7,0,False
+L000165,staff,Sosyal Bilimler,,2,False
+L000166,undergraduate,Bilişim Teknolojileri,14,0,False
+L000167,postgraduate,Bilişim Teknolojileri,31,1,False
+L000168,undergraduate,Mühendislik,13,2,False
+L000169,staff,Mühendislik,9,1,False
+L000170,postgraduate,Mühendislik,19,2,True
+L000171,undergraduate,Mimarlık,19,0,False
+L000172,postgraduate,Bilişim Teknolojileri,49,2,False
+L000173,undergraduate,Temel Bilimler,6,1,False
+L000174,undergraduate,Temel Bilimler,12,1,False
+L000175,undergraduate,Mühendislik,20,1,True
+L000176,undergraduate,Mühendislik,,0,False
+L000177,undergraduate,Bilişim Teknolojileri,15,0,True
+L000178,staff,Temel Bilimler,22,3,False
+L000179,undergraduate,Mühendislik,21,2,False
+L000180,postgraduate,İşletme,26,0,True
+L000181,undergraduate,Sosyal Bilimler,18,1,False
+L000182,undergraduate,Bilişim Teknolojileri,15,0,False
+L000183,undergraduate,Sosyal Bilimler,7,0,False
+L000184,undergraduate,İşletme,13,1,True
+L000185,undergraduate,Temel Bilimler,12,1,False
+L000186,postgraduate,Mühendislik,27,1,False
+L000187,staff,Temel Bilimler,29,1,False
+L000188,undergraduate,İşletme,14,1,False
+L000189,postgraduate,Bilişim Teknolojileri,33,1,False
+L000190,postgraduate,Bilişim Teknolojileri,,0,True
+L000191,undergraduate,Bilişim Teknolojileri,17,1,True
+L000192,undergraduate,Sosyal Bilimler,9,1,True
+L000193,undergraduate,Mimarlık,18,1,False
+L000194,undergraduate,Mimarlık,17,1,True
+L000195,undergraduate,Mühendislik,16,0,True
+L000196,undergraduate,Temel Bilimler,7,2,False
+L000197,postgraduate,İşletme,14,0,False
+L000198,undergraduate,Temel Bilimler,12,1,False
+L000199,undergraduate,Temel Bilimler,15,1,False
+L000200,undergraduate,İşletme,8,1,False
+L000201,undergraduate,Mimarlık,14,0,False
+L000202,staff,Sosyal Bilimler,21,1,False
+L000203,undergraduate,Mimarlık,9,0,False
+L000204,postgraduate,Sosyal Bilimler,33,1,False
+L000205,undergraduate,İşletme,12,1,False
+L000206,postgraduate,Bilişim Teknolojileri,20,1,False
+L000207,undergraduate,Bilişim Teknolojileri,7,2,False
+L000208,undergraduate,Temel Bilimler,11,0,False
+L000209,postgraduate,Temel Bilimler,10,0,False
+L000210,undergraduate,Mimarlık,23,0,True
+L000211,postgraduate,Temel Bilimler,19,0,True
+L000212,postgraduate,Sosyal Bilimler,13,0,False
+L000213,undergraduate,İşletme,13,0,False
+L000214,undergraduate,Mimarlık,23,0,False
+L000215,undergraduate,Mühendislik,11,1,False
+L000216,undergraduate,İşletme,26,1,True
+L000217,undergraduate,İşletme,,0,False
+L000218,staff,Mühendislik,13,1,False
+L000219,staff,Mühendislik,22,1,False
+L000220,staff,Mühendislik,23,1,False
+L000221,undergraduate,Sosyal Bilimler,12,1,True
+L000222,staff,Bilişim Teknolojileri,27,3,False
+L000223,undergraduate,İşletme,5,1,False
+L000224,postgraduate,İşletme,12,1,True
+L000225,undergraduate,Sosyal Bilimler,,0,False
+L000226,undergraduate,İşletme,4,2,True
+L000227,postgraduate,Sosyal Bilimler,23,1,False
+L000228,postgraduate,Mühendislik,20,1,False
+L000229,undergraduate,İşletme,9,1,False
+L000230,staff,İşletme,42,0,False
+L000231,staff,Temel Bilimler,22,1,False
+L000232,undergraduate,Mühendislik,3,1,True
+L000233,undergraduate,Sosyal Bilimler,9,0,False
+L000234,undergraduate,Sosyal Bilimler,17,0,True
+L000235,undergraduate,Sosyal Bilimler,15,0,False
+L000236,undergraduate,Sosyal Bilimler,5,1,False
+L000237,undergraduate,Mimarlık,14,1,False
+L000238,postgraduate,Mühendislik,10,0,False
+L000239,undergraduate,Bilişim Teknolojileri,9,2,True
+L000240,undergraduate,Mühendislik,13,2,False
+L000241,postgraduate,Temel Bilimler,11,0,False
+L000242,postgraduate,İşletme,8,1,False
+L000243,staff,Mimarlık,34,2,False
+L000244,staff,İşletme,25,2,False
+L000245,undergraduate,Temel Bilimler,35,1,True
+L000246,undergraduate,İşletme,9,2,False
+L000247,postgraduate,İşletme,21,1,False
+L000248,postgraduate,Bilişim Teknolojileri,24,1,False
+L000249,undergraduate,İşletme,4,2,False
+L000250,undergraduate,Mimarlık,9,0,False
+L000251,staff,İşletme,17,1,False
+L000252,undergraduate,Sosyal Bilimler,,1,False
+L000253,staff,Mühendislik,33,0,True
+L000254,undergraduate,Temel Bilimler,10,2,False
+L000255,undergraduate,Bilişim Teknolojileri,16,0,True
+L000256,postgraduate,Bilişim Teknolojileri,20,0,True
+L000257,undergraduate,Temel Bilimler,15,0,False
+L000258,undergraduate,İşletme,12,0,False
+L000259,undergraduate,İşletme,10,2,False
+L000260,postgraduate,Mimarlık,20,0,False
+L000261,postgraduate,Mühendislik,6,1,False
+L000262,postgraduate,İşletme,36,2,True
+L000263,undergraduate,İşletme,6,1,True
+L000264,undergraduate,Mimarlık,13,0,False
+L000265,undergraduate,Sosyal Bilimler,11,0,False
+L000266,undergraduate,Bilişim Teknolojileri,7,1,True
+L000267,undergraduate,İşletme,12,0,False
+L000268,postgraduate,Temel Bilimler,12,0,False
+L000269,postgraduate,Sosyal Bilimler,30,1,False
+L000270,staff,Bilişim Teknolojileri,15,3,False
+L000271,undergraduate,Mimarlık,10,0,False
+L000272,postgraduate,Mühendislik,11,1,False
+L000273,postgraduate,Mimarlık,37,3,False
+L000274,staff,İşletme,15,2,False
+L000275,postgraduate,Mimarlık,35,0,True
+L000276,undergraduate,İşletme,17,1,False
+L000277,postgraduate,Bilişim Teknolojileri,16,0,False
+L000278,staff,Temel Bilimler,17,0,False
+L000279,postgraduate,İşletme,20,1,False
+L000280,undergraduate,Sosyal Bilimler,12,1,False
+L000281,postgraduate,Temel Bilimler,11,0,False
+L000282,undergraduate,Mimarlık,16,1,False
+L000283,postgraduate,Mühendislik,10,2,False
+L000284,staff,Temel Bilimler,21,1,False
+L000285,undergraduate,Mimarlık,13,2,False
+L000286,undergraduate,İşletme,14,0,False
+L000287,postgraduate,İşletme,33,0,False
+L000288,undergraduate,Mühendislik,7,0,False
+L000289,undergraduate,İşletme,4,1,False
+L000290,staff,Sosyal Bilimler,29,2,True
+L000291,postgraduate,İşletme,14,0,False
+L000292,undergraduate,Temel Bilimler,15,1,True
+L000293,undergraduate,Mühendislik,10,1,False
+L000294,postgraduate,Temel Bilimler,12,0,False
+L000295,undergraduate,İşletme,14,1,False
+L000296,undergraduate,İşletme,17,0,False
+L000297,postgraduate,Bilişim Teknolojileri,11,0,False
+L000298,undergraduate,Sosyal Bilimler,,0,False
+L000299,staff,Temel Bilimler,6,3,False
+L000300,staff,Mimarlık,22,2,False
+L000301,undergraduate,Temel Bilimler,8,1,True
+L000302,postgraduate,Temel Bilimler,11,0,True
+L000303,undergraduate,Mimarlık,24,2,False
+L000304,undergraduate,İşletme,19,0,True
+L000305,undergraduate,Temel Bilimler,9,0,False
+L000306,postgraduate,İşletme,10,1,False
+L000307,undergraduate,Mimarlık,5,1,True
+L000308,undergraduate,İşletme,8,1,False
+L000309,staff,İşletme,23,1,False
+L000310,staff,Sosyal Bilimler,20,0,False
+L000311,staff,Temel Bilimler,21,1,False
+L000312,undergraduate,Mimarlık,39,1,True
+L000313,undergraduate,Bilişim Teknolojileri,13,0,True
+L000314,undergraduate,Mühendislik,7,1,False
+L000315,undergraduate,İşletme,13,0,True
+L000316,staff,İşletme,21,2,False
+L000317,undergraduate,Bilişim Teknolojileri,9,0,False
+L000318,undergraduate,Temel Bilimler,8,0,False
+L000319,undergraduate,Sosyal Bilimler,11,1,False
+L000320,undergraduate,İşletme,10,1,True
+L000321,postgraduate,Sosyal Bilimler,28,2,False
+L000322,undergraduate,Temel Bilimler,7,1,False
+L000323,undergraduate,Sosyal Bilimler,9,0,False
+L000324,undergraduate,Bilişim Teknolojileri,8,2,False
+L000325,postgraduate,Mühendislik,24,0,True
+L000326,undergraduate,Temel Bilimler,7,1,False
+L000327,undergraduate,Mimarlık,21,2,False
+L000328,postgraduate,Bilişim Teknolojileri,18,0,True
+L000329,undergraduate,İşletme,21,0,False
+L000330,postgraduate,İşletme,7,1,False
+L000331,postgraduate,Mühendislik,13,2,False
+L000332,undergraduate,Bilişim Teknolojileri,13,1,False
+L000333,undergraduate,Mimarlık,14,1,False
+L000334,postgraduate,İşletme,18,1,False
+L000335,undergraduate,Temel Bilimler,8,1,False
+L000336,staff,Mimarlık,44,1,False
+L000337,undergraduate,İşletme,,0,False
+L000338,staff,Sosyal Bilimler,20,2,False
+L000339,undergraduate,Bilişim Teknolojileri,14,1,False
+L000340,postgraduate,Temel Bilimler,19,0,False
+L000341,staff,Mühendislik,28,2,True
+L000342,staff,İşletme,13,1,False
+L000343,undergraduate,Bilişim Teknolojileri,12,2,False
+L000344,undergraduate,Mimarlık,9,0,True
+L000345,undergraduate,Bilişim Teknolojileri,23,0,False
+L000346,undergraduate,İşletme,8,1,False
+L000347,undergraduate,Mimarlık,18,2,False
+L000348,undergraduate,Temel Bilimler,9,1,False
+L000349,undergraduate,Mimarlık,14,0,False
+L000350,undergraduate,Mimarlık,20,0,True
+L000351,staff,Mühendislik,27,2,False
+L000352,undergraduate,Mühendislik,10,0,False
+L000353,postgraduate,Mimarlık,15,1,False
+L000354,undergraduate,İşletme,13,1,False
+L000355,undergraduate,Mühendislik,6,1,False
+L000356,undergraduate,Sosyal Bilimler,,1,False
+L000357,staff,Temel Bilimler,9,2,False
+L000358,undergraduate,Mühendislik,6,0,False
+L000359,undergraduate,Mimarlık,10,1,False
+L000360,undergraduate,Bilişim Teknolojileri,8,2,False
+L000361,postgraduate,Bilişim Teknolojileri,12,1,True
+L000362,undergraduate,Mühendislik,11,3,True
+L000363,undergraduate,Mimarlık,11,1,False
+L000364,staff,Mühendislik,27,1,False
+L000365,undergraduate,Mimarlık,12,0,False
+L000366,undergraduate,Bilişim Teknolojileri,,1,False
+L000367,postgraduate,Bilişim Teknolojileri,11,0,False
+L000368,undergraduate,İşletme,15,0,False
+L000369,undergraduate,Mimarlık,10,1,False
+L000370,undergraduate,Mühendislik,9,0,False
+L000371,undergraduate,Mühendislik,9,0,False
+L000372,postgraduate,Temel Bilimler,6,2,False
+L000373,undergraduate,Temel Bilimler,22,2,False
+L000374,postgraduate,İşletme,38,1,True
+L000375,undergraduate,İşletme,19,2,True
+L000376,undergraduate,Mimarlık,16,0,False
+L000377,postgraduate,Temel Bilimler,17,0,True
+L000378,staff,Sosyal Bilimler,31,2,False
+L000379,undergraduate,Bilişim Teknolojileri,16,0,False
+L000380,postgraduate,Bilişim Teknolojileri,16,1,False
+L000381,postgraduate,Sosyal Bilimler,,1,True
+L000382,undergraduate,İşletme,6,0,False
+L000383,staff,Sosyal Bilimler,22,2,False
+L000384,undergraduate,Mühendislik,,0,False
+L000385,staff,Temel Bilimler,20,3,False
+L000386,undergraduate,Bilişim Teknolojileri,10,2,True
+L000387,postgraduate,Sosyal Bilimler,10,1,False
+L000388,undergraduate,Mimarlık,18,0,True
+L000389,postgraduate,Bilişim Teknolojileri,13,2,False
+L000390,postgraduate,Mimarlık,18,0,True
+L000391,staff,Sosyal Bilimler,16,2,False
+L000392,undergraduate,İşletme,20,2,False
+L000393,postgraduate,Temel Bilimler,8,1,False
+L000394,staff,Sosyal Bilimler,25,1,False
+L000395,undergraduate,Mimarlık,31,1,True
+L000396,undergraduate,Mimarlık,19,0,True
+L000397,undergraduate,Mühendislik,7,1,False
+L000398,staff,Temel Bilimler,22,0,False
+L000399,postgraduate,İşletme,45,1,True
+L000400,staff,Bilişim Teknolojileri,9,1,False
+L000401,undergraduate,Bilişim Teknolojileri,12,2,False
+L000402,undergraduate,Temel Bilimler,18,0,True
+L000403,staff,Sosyal Bilimler,21,1,False
+L000404,undergraduate,Mühendislik,5,1,False
+L000405,postgraduate,Temel Bilimler,16,1,True
+L000406,undergraduate,Bilişim Teknolojileri,19,0,False
+L000407,undergraduate,Sosyal Bilimler,8,0,False
+L000408,undergraduate,Bilişim Teknolojileri,16,1,False
+L000409,undergraduate,İşletme,11,0,False
+L000410,undergraduate,Bilişim Teknolojileri,10,0,True
+L000411,undergraduate,Sosyal Bilimler,20,1,False
+L000412,staff,Mühendislik,23,0,False
+L000413,postgraduate,Sosyal Bilimler,41,1,True
+L000414,staff,Sosyal Bilimler,20,2,False
+L000415,undergraduate,Bilişim Teknolojileri,,1,False
+L000416,staff,Bilişim Teknolojileri,,2,False
+L000417,undergraduate,Mühendislik,9,1,True
+L000418,undergraduate,İşletme,6,1,False
+L000419,undergraduate,Mühendislik,9,1,True
+L000420,staff,Temel Bilimler,24,3,False
+L000421,undergraduate,Temel Bilimler,8,1,False
+L000422,postgraduate,Mühendislik,13,0,False
+L000423,undergraduate,Temel Bilimler,5,1,False
+L000424,postgraduate,Mimarlık,18,0,True
+L000425,postgraduate,Temel Bilimler,12,1,True
+L000426,postgraduate,Mimarlık,11,0,False
+L000427,undergraduate,İşletme,11,0,False
+L000428,undergraduate,Sosyal Bilimler,13,1,False
+L000429,undergraduate,Mühendislik,5,0,False
+L000430,undergraduate,İşletme,12,0,True
+L000431,undergraduate,Mimarlık,8,1,False
+L000432,undergraduate,Mimarlık,15,1,True
+L000433,staff,İşletme,20,2,False
+L000434,undergraduate,Mühendislik,9,1,False
+L000435,undergraduate,Temel Bilimler,,1,False
+L000436,undergraduate,Bilişim Teknolojileri,18,1,True
+L000437,postgraduate,İşletme,9,3,True
+L000438,undergraduate,İşletme,15,1,False
+L000439,postgraduate,Mühendislik,16,1,False
+L000440,undergraduate,Mühendislik,,0,False
+L000441,undergraduate,Bilişim Teknolojileri,12,1,False
+L000442,postgraduate,Temel Bilimler,22,0,False
+L000443,staff,Bilişim Teknolojileri,25,3,False
+L000444,undergraduate,Sosyal Bilimler,14,0,False
+L000445,staff,Mühendislik,44,1,False
+L000446,postgraduate,Mimarlık,32,1,True
+L000447,undergraduate,Mimarlık,13,1,True
+L000448,staff,Bilişim Teknolojileri,16,2,False
+L000449,postgraduate,Bilişim Teknolojileri,37,1,False
+L000450,staff,Temel Bilimler,20,3,False
+L000451,undergraduate,Sosyal Bilimler,15,0,True
+L000452,postgraduate,Sosyal Bilimler,16,0,True
+L000453,undergraduate,Sosyal Bilimler,10,0,False
+L000454,undergraduate,İşletme,10,0,False
+L000455,postgraduate,Mimarlık,43,0,True
+L000456,undergraduate,Temel Bilimler,10,0,False
+L000457,postgraduate,Mühendislik,13,0,False
+L000458,undergraduate,Bilişim Teknolojileri,16,1,False
+L000459,postgraduate,Temel Bilimler,12,1,False
+L000460,undergraduate,Bilişim Teknolojileri,20,1,True
+L000461,staff,İşletme,,0,False
+L000462,staff,Mühendislik,35,1,False
+L000463,staff,Temel Bilimler,,2,False
+L000464,postgraduate,Sosyal Bilimler,14,1,True
+L000465,postgraduate,Mimarlık,44,2,True
+L000466,staff,Mühendislik,16,1,False
+L000467,undergraduate,Mimarlık,,1,False
+L000468,postgraduate,İşletme,22,1,False
+L000469,postgraduate,Mühendislik,9,0,False
+L000470,undergraduate,Mühendislik,6,0,False
+L000471,postgraduate,Mimarlık,26,0,False
+L000472,undergraduate,İşletme,7,1,False
+L000473,postgraduate,Temel Bilimler,24,1,False
+L000474,postgraduate,Mühendislik,25,1,False
+L000475,undergraduate,Sosyal Bilimler,16,1,True
+L000476,undergraduate,Bilişim Teknolojileri,17,1,False
+L000477,undergraduate,İşletme,11,1,True
+L000478,staff,Bilişim Teknolojileri,15,0,False
+L000479,undergraduate,Mühendislik,11,2,True
+L000480,undergraduate,Bilişim Teknolojileri,13,1,False
+L000481,undergraduate,Mühendislik,20,1,False
+L000482,undergraduate,İşletme,15,2,False
+L000483,undergraduate,Temel Bilimler,11,0,False
+L000484,undergraduate,Mühendislik,9,0,False
+L000485,undergraduate,Mimarlık,22,1,False
+L000486,undergraduate,Temel Bilimler,12,1,False
+L000487,undergraduate,İşletme,9,0,False
+L000488,staff,Sosyal Bilimler,23,2,True
+L000489,undergraduate,Temel Bilimler,10,0,True
+L000490,postgraduate,Bilişim Teknolojileri,26,1,True
+L000491,staff,İşletme,26,1,False
+L000492,undergraduate,Mimarlık,24,2,False
+L000493,undergraduate,İşletme,12,0,False
+L000494,undergraduate,Mimarlık,14,0,False
+L000495,undergraduate,Mimarlık,21,0,False
+L000496,postgraduate,Sosyal Bilimler,23,0,False
+L000497,postgraduate,Sosyal Bilimler,12,1,False
+L000498,undergraduate,Sosyal Bilimler,12,1,False
+L000499,undergraduate,Sosyal Bilimler,15,1,False
+L000500,undergraduate,İşletme,16,0,False
+L000501,undergraduate,Bilişim Teknolojileri,6,1,True
+L000502,undergraduate,İşletme,7,1,False
+L000503,postgraduate,Mühendislik,12,0,False
+L000504,postgraduate,İşletme,23,1,False
+L000505,postgraduate,Bilişim Teknolojileri,18,1,False
+L000506,staff,Sosyal Bilimler,55,2,True
+L000507,postgraduate,Bilişim Teknolojileri,17,1,True
+L000508,undergraduate,Temel Bilimler,14,0,False
+L000509,undergraduate,Temel Bilimler,9,1,False
+L000510,undergraduate,İşletme,9,1,False
+L000511,undergraduate,Mimarlık,19,2,False
+L000512,undergraduate,İşletme,12,0,False
+L000513,undergraduate,Mimarlık,42,1,True
+L000514,undergraduate,Mimarlık,12,0,False
+L000515,staff,Mimarlık,22,2,False
+L000516,undergraduate,Mimarlık,14,1,True
+L000517,undergraduate,Temel Bilimler,8,0,False
+L000518,postgraduate,Temel Bilimler,9,1,True
+L000519,postgraduate,Mühendislik,19,0,False
+L000520,undergraduate,Temel Bilimler,9,0,False
+L000521,undergraduate,Sosyal Bilimler,16,1,True
+L000522,undergraduate,Bilişim Teknolojileri,11,0,False
+L000523,undergraduate,Mühendislik,11,1,False
+L000524,undergraduate,Bilişim Teknolojileri,17,0,False
+L000525,undergraduate,Temel Bilimler,8,0,False
+L000526,undergraduate,Sosyal Bilimler,13,0,False
+L000527,undergraduate,Mühendislik,10,2,False
+L000528,postgraduate,Mimarlık,23,1,False
+L000529,undergraduate,İşletme,6,0,False
+L000530,undergraduate,Mimarlık,19,1,True
+L000531,postgraduate,Sosyal Bilimler,19,0,False
+L000532,undergraduate,Mühendislik,6,0,True
+L000533,undergraduate,Bilişim Teknolojileri,12,0,False
+L000534,undergraduate,Temel Bilimler,13,2,False
+L000535,staff,Bilişim Teknolojileri,21,2,False
+L000536,undergraduate,Temel Bilimler,9,1,False
+L000537,undergraduate,Mimarlık,19,0,False
+L000538,postgraduate,Mühendislik,33,0,True
+L000539,undergraduate,İşletme,10,1,False
+L000540,undergraduate,Temel Bilimler,5,0,False
+L000541,undergraduate,Mühendislik,12,0,True
+L000542,postgraduate,Mühendislik,22,1,True
+L000543,undergraduate,Temel Bilimler,33,2,True
+L000544,undergraduate,Sosyal Bilimler,6,1,False
+L000545,postgraduate,Mühendislik,23,1,False
+L000546,undergraduate,Temel Bilimler,16,1,False
+L000547,postgraduate,İşletme,18,1,False
+L000548,undergraduate,Sosyal Bilimler,22,1,True
+L000549,postgraduate,Mimarlık,27,1,False
+L000550,undergraduate,İşletme,,1,True
+L000551,postgraduate,Mimarlık,47,1,False
+L000552,undergraduate,Mimarlık,15,1,False
+L000553,postgraduate,Mühendislik,,1,True
+L000554,undergraduate,Temel Bilimler,13,0,False
+L000555,undergraduate,Bilişim Teknolojileri,,1,False
+L000556,undergraduate,Bilişim Teknolojileri,11,0,False
+L000557,undergraduate,Mühendislik,6,0,False
+L000558,undergraduate,Sosyal Bilimler,10,0,False
+L000559,undergraduate,Mimarlık,9,1,False
+L000560,postgraduate,Mimarlık,6,1,False
+L000561,postgraduate,Mimarlık,12,0,True
+L000562,postgraduate,Mimarlık,19,0,False
+L000563,postgraduate,Temel Bilimler,25,1,False
+L000564,postgraduate,Bilişim Teknolojileri,,1,False
+L000565,undergraduate,Bilişim Teknolojileri,13,0,False
+L000566,postgraduate,İşletme,38,0,False
+L000567,undergraduate,Mühendislik,13,1,True
+L000568,postgraduate,Mimarlık,30,1,False
+L000569,undergraduate,Temel Bilimler,9,1,True
+L000570,postgraduate,Bilişim Teknolojileri,42,1,False
+L000571,postgraduate,Temel Bilimler,12,0,False
+L000572,postgraduate,İşletme,13,1,False
+L000573,postgraduate,İşletme,17,1,False
+L000574,undergraduate,Mimarlık,35,0,False
+L000575,undergraduate,Mühendislik,23,1,False
+L000576,undergraduate,Sosyal Bilimler,14,2,False
+L000577,undergraduate,Mimarlık,10,0,False
+L000578,postgraduate,Mimarlık,,1,True
+L000579,staff,Sosyal Bilimler,18,2,False
+L000580,postgraduate,Mühendislik,13,1,False
+L000581,undergraduate,Mühendislik,14,2,False
+L000582,undergraduate,Temel Bilimler,16,0,False
+L000583,undergraduate,Temel Bilimler,9,2,False
+L000584,undergraduate,Mühendislik,7,2,False
+L000585,postgraduate,Bilişim Teknolojileri,8,1,False
+L000586,undergraduate,Bilişim Teknolojileri,15,0,False
+L000587,postgraduate,Bilişim Teknolojileri,17,0,False
+L000588,undergraduate,Mühendislik,9,1,True
+L000589,undergraduate,Mimarlık,10,0,False
+L000590,undergraduate,Bilişim Teknolojileri,7,1,False
+L000591,staff,İşletme,22,2,False
+L000592,undergraduate,Temel Bilimler,6,2,False
+L000593,undergraduate,Mühendislik,19,1,True
+L000594,postgraduate,Temel Bilimler,28,0,True
+L000595,postgraduate,Mühendislik,30,2,False
+L000596,undergraduate,Temel Bilimler,13,0,False
+L000597,undergraduate,İşletme,9,1,True
+L000598,postgraduate,Mühendislik,48,1,True
+L000599,undergraduate,Bilişim Teknolojileri,21,0,False
+L000600,staff,Mimarlık,32,1,False
+L000601,postgraduate,Sosyal Bilimler,32,1,True
+L000602,postgraduate,Temel Bilimler,16,0,False
+L000603,undergraduate,İşletme,25,0,True
+L000604,undergraduate,Mimarlık,16,0,True
+L000605,undergraduate,Bilişim Teknolojileri,5,0,False
+L000606,postgraduate,Mühendislik,8,0,False
+L000607,postgraduate,Mühendislik,17,2,False
+L000608,postgraduate,Temel Bilimler,10,1,False
+L000609,undergraduate,Temel Bilimler,8,1,False
+L000610,undergraduate,Sosyal Bilimler,7,2,False
+L000611,undergraduate,Mimarlık,24,1,True
+L000612,undergraduate,Mühendislik,16,1,False
+L000613,undergraduate,Bilişim Teknolojileri,6,0,False
+L000614,undergraduate,Bilişim Teknolojileri,19,1,False
+L000615,undergraduate,Mimarlık,24,1,False
+L000616,undergraduate,Mühendislik,15,2,False
+L000617,undergraduate,Bilişim Teknolojileri,10,1,False
+L000618,postgraduate,Temel Bilimler,19,1,False
+L000619,undergraduate,Bilişim Teknolojileri,,1,True
+L000620,undergraduate,Mühendislik,12,2,False
+L000621,undergraduate,Bilişim Teknolojileri,7,2,False
+L000622,postgraduate,Bilişim Teknolojileri,27,0,False
+L000623,undergraduate,Mühendislik,8,1,False
+L000624,undergraduate,Bilişim Teknolojileri,13,1,False
+L000625,postgraduate,Mimarlık,16,0,False
+L000626,staff,Mimarlık,41,1,False
+L000627,undergraduate,Mimarlık,11,2,True
+L000628,undergraduate,Bilişim Teknolojileri,23,1,False
+L000629,postgraduate,Temel Bilimler,17,1,True
+L000630,staff,Sosyal Bilimler,25,0,False
+L000631,postgraduate,Mimarlık,23,1,True
+L000632,undergraduate,Mimarlık,26,0,True
+L000633,undergraduate,Mimarlık,12,0,False
+L000634,postgraduate,Mimarlık,19,0,False
+L000635,undergraduate,İşletme,13,3,False
+L000636,undergraduate,İşletme,11,2,False
+L000637,undergraduate,İşletme,23,0,False
+L000638,undergraduate,Bilişim Teknolojileri,17,0,False
+L000639,undergraduate,Temel Bilimler,11,1,False
+L000640,postgraduate,Temel Bilimler,,1,False
+L000641,undergraduate,Mühendislik,12,0,False
+L000642,undergraduate,Mimarlık,24,1,True
+L000643,undergraduate,İşletme,15,2,False
+L000644,undergraduate,İşletme,12,1,False
+L000645,postgraduate,Mühendislik,17,2,False
+L000646,undergraduate,Mühendislik,6,1,False
+L000647,staff,Temel Bilimler,24,0,False
+L000648,undergraduate,İşletme,12,0,False
+L000649,staff,Mühendislik,17,1,False
+L000650,undergraduate,İşletme,16,2,False
+L000651,postgraduate,Temel Bilimler,19,0,False
+L000652,postgraduate,Mimarlık,16,0,True
+L000653,staff,Mimarlık,22,1,False
+L000654,postgraduate,Sosyal Bilimler,22,0,False
+L000655,undergraduate,Bilişim Teknolojileri,10,1,False
+L000656,undergraduate,Mimarlık,8,1,False
+L000657,postgraduate,Mimarlık,13,0,False
+L000658,undergraduate,Sosyal Bilimler,,2,False
+L000659,undergraduate,İşletme,11,0,True
+L000660,postgraduate,Mühendislik,16,2,False
+L000661,postgraduate,İşletme,10,0,False
+L000662,postgraduate,Mimarlık,20,0,False
+L000663,undergraduate,Temel Bilimler,7,0,False
+L000664,postgraduate,Mimarlık,29,0,False
+L000665,undergraduate,Sosyal Bilimler,9,0,True
+L000666,undergraduate,Sosyal Bilimler,31,1,True
+L000667,undergraduate,Sosyal Bilimler,10,2,False
+L000668,postgraduate,Mimarlık,24,0,True
+L000669,staff,Bilişim Teknolojileri,13,2,False
+L000670,postgraduate,Sosyal Bilimler,18,0,False
+L000671,undergraduate,Mimarlık,26,2,True
+L000672,undergraduate,Bilişim Teknolojileri,8,2,False
+L000673,postgraduate,İşletme,22,2,False
+L000674,undergraduate,Temel Bilimler,19,0,True
+L000675,undergraduate,Mimarlık,27,0,True
+L000676,undergraduate,Mühendislik,9,1,False
+L000677,undergraduate,Mühendislik,7,0,True
+L000678,postgraduate,Bilişim Teknolojileri,5,2,False
+L000679,undergraduate,Mimarlık,15,0,False
+L000680,undergraduate,Temel Bilimler,13,1,True
+L000681,undergraduate,İşletme,8,1,False
+L000682,postgraduate,Mühendislik,11,0,False
+L000683,undergraduate,İşletme,9,1,False
+L000684,undergraduate,Temel Bilimler,11,0,False
+L000685,staff,Temel Bilimler,12,1,False
+L000686,undergraduate,Mühendislik,13,0,False
+L000687,postgraduate,Mimarlık,22,0,False
+L000688,undergraduate,Sosyal Bilimler,8,2,False
+L000689,undergraduate,Sosyal Bilimler,12,1,False
+L000690,staff,Sosyal Bilimler,18,1,False
+L000691,undergraduate,Mühendislik,12,1,False
+L000692,undergraduate,Bilişim Teknolojileri,8,0,False
+L000693,undergraduate,Mühendislik,16,2,False
+L000694,undergraduate,Bilişim Teknolojileri,7,1,True
+L000695,staff,Sosyal Bilimler,20,2,False
+L000696,postgraduate,Mimarlık,25,1,False
+L000697,undergraduate,Mimarlık,12,1,False
+L000698,undergraduate,Sosyal Bilimler,7,1,False
+L000699,undergraduate,Mimarlık,11,2,False
+L000700,undergraduate,İşletme,16,0,True
+L000701,undergraduate,İşletme,5,0,False
+L000702,staff,Temel Bilimler,28,1,False
+L000703,undergraduate,Mühendislik,23,2,False
+L000704,undergraduate,Temel Bilimler,7,1,False
+L000705,postgraduate,İşletme,25,1,False
+L000706,undergraduate,İşletme,7,0,False
+L000707,undergraduate,Mühendislik,8,0,True
+L000708,undergraduate,Mimarlık,,0,True
+L000709,postgraduate,Mühendislik,14,1,False
+L000710,undergraduate,Sosyal Bilimler,11,0,False
+L000711,undergraduate,Temel Bilimler,4,2,True
+L000712,staff,Bilişim Teknolojileri,25,2,False
+L000713,postgraduate,Mühendislik,9,1,True
+L000714,undergraduate,Sosyal Bilimler,9,0,True
+L000715,postgraduate,İşletme,18,2,True
+L000716,staff,İşletme,,1,False
+L000717,undergraduate,Mimarlık,20,1,False
+L000718,postgraduate,Temel Bilimler,16,1,False
+L000719,undergraduate,Mimarlık,19,1,False
+L000720,undergraduate,Bilişim Teknolojileri,7,0,False
+L000721,undergraduate,Sosyal Bilimler,10,1,False
+L000722,staff,İşletme,24,2,False
+L000723,staff,Mimarlık,19,1,False
+L000724,undergraduate,Sosyal Bilimler,10,0,False
+L000725,undergraduate,Mimarlık,23,0,False
+L000726,postgraduate,Sosyal Bilimler,,0,False
+L000727,undergraduate,Temel Bilimler,13,2,True
+L000728,undergraduate,Mühendislik,12,0,True
+L000729,undergraduate,Mimarlık,,1,False
+L000730,undergraduate,Temel Bilimler,19,1,False
+L000731,staff,Temel Bilimler,40,2,False
+L000732,postgraduate,Mühendislik,10,2,False
+L000733,undergraduate,Bilişim Teknolojileri,8,1,True
+L000734,postgraduate,İşletme,45,0,False
+L000735,undergraduate,Sosyal Bilimler,10,1,False
+L000736,undergraduate,Sosyal Bilimler,7,0,False
+L000737,undergraduate,İşletme,8,2,False
+L000738,undergraduate,Sosyal Bilimler,11,2,False
+L000739,undergraduate,Mühendislik,27,0,False
+L000740,undergraduate,Mühendislik,19,1,False
+L000741,undergraduate,İşletme,9,0,False
+L000742,staff,Mühendislik,23,2,False
+L000743,staff,Bilişim Teknolojileri,19,2,False
+L000744,undergraduate,Sosyal Bilimler,7,1,False
+L000745,undergraduate,Mimarlık,32,2,True
+L000746,undergraduate,Temel Bilimler,9,1,False
+L000747,postgraduate,Mühendislik,11,0,False
+L000748,undergraduate,İşletme,9,0,True
+L000749,undergraduate,Bilişim Teknolojileri,6,0,False
+L000750,undergraduate,Temel Bilimler,7,1,True
+L000751,undergraduate,Mühendislik,6,1,True
+L000752,staff,Temel Bilimler,22,2,False
+L000753,undergraduate,Mühendislik,12,0,True
+L000754,undergraduate,Temel Bilimler,9,1,False
+L000755,undergraduate,Bilişim Teknolojileri,9,1,True
+L000756,postgraduate,Mühendislik,18,0,False
+L000757,undergraduate,Sosyal Bilimler,14,1,True
+L000758,undergraduate,Bilişim Teknolojileri,14,0,False
+L000759,staff,Mimarlık,20,2,False
+L000760,postgraduate,Temel Bilimler,42,1,True
+L000761,undergraduate,İşletme,24,0,True
+L000762,postgraduate,İşletme,14,0,False
+L000763,undergraduate,Temel Bilimler,9,1,False
+L000764,postgraduate,Bilişim Teknolojileri,15,0,True
+L000765,undergraduate,Mimarlık,9,2,False
+L000766,postgraduate,Bilişim Teknolojileri,16,1,False
+L000767,postgraduate,Temel Bilimler,30,1,False
+L000768,undergraduate,Mimarlık,12,1,True
+L000769,undergraduate,Mühendislik,,3,True
+L000770,undergraduate,Mimarlık,10,0,True
+L000771,undergraduate,İşletme,18,1,False
+L000772,undergraduate,Bilişim Teknolojileri,14,1,False
+L000773,undergraduate,Bilişim Teknolojileri,13,1,False
+L000774,staff,Bilişim Teknolojileri,16,2,False
+L000775,postgraduate,Temel Bilimler,24,1,True
+L000776,postgraduate,İşletme,11,0,True
+L000777,undergraduate,İşletme,16,2,False
+L000778,undergraduate,Temel Bilimler,7,1,False
+L000779,staff,Temel Bilimler,25,1,False
+L000780,undergraduate,Sosyal Bilimler,8,1,False
+L000781,undergraduate,Bilişim Teknolojileri,9,1,False
+L000782,undergraduate,Temel Bilimler,8,0,False
+L000783,staff,İşletme,13,2,False
+L000784,undergraduate,Mimarlık,,0,False
+L000785,undergraduate,İşletme,10,0,True
+L000786,undergraduate,Mühendislik,10,0,False
+L000787,undergraduate,İşletme,17,0,False
+L000788,staff,Temel Bilimler,14,1,False
+L000789,undergraduate,Sosyal Bilimler,15,0,True
+L000790,undergraduate,Mimarlık,22,0,False
+L000791,undergraduate,Temel Bilimler,7,1,True
+L000792,undergraduate,Mühendislik,7,0,False
+L000793,postgraduate,Mühendislik,26,0,False
+L000794,staff,İşletme,14,2,False
+L000795,staff,Mühendislik,29,1,False
+L000796,postgraduate,Bilişim Teknolojileri,12,1,False
+L000797,undergraduate,İşletme,7,1,False
+L000798,undergraduate,Mühendislik,15,1,True
+L000799,undergraduate,Mühendislik,8,1,True
+L000800,postgraduate,Bilişim Teknolojileri,11,1,False
+L000801,postgraduate,İşletme,20,0,False
+L000802,undergraduate,Mühendislik,16,0,False
+L000803,undergraduate,Mimarlık,16,0,False
+L000804,postgraduate,İşletme,9,0,False
+L000805,undergraduate,Temel Bilimler,8,1,False
+L000806,undergraduate,Bilişim Teknolojileri,8,0,False
+L000807,undergraduate,Mimarlık,18,0,False
+L000808,staff,İşletme,27,1,False
+L000809,undergraduate,İşletme,10,0,False
+L000810,undergraduate,İşletme,11,0,False
+L000811,undergraduate,Sosyal Bilimler,10,1,False
+L000812,undergraduate,İşletme,12,1,False
+L000813,postgraduate,Bilişim Teknolojileri,15,1,False
+L000814,postgraduate,Bilişim Teknolojileri,21,0,True
+L000815,undergraduate,Temel Bilimler,8,2,True
+L000816,undergraduate,Mimarlık,18,2,True
+L000817,undergraduate,Bilişim Teknolojileri,9,0,False
+L000818,undergraduate,Mühendislik,9,0,False
+L000819,undergraduate,İşletme,12,1,False
+L000820,staff,Temel Bilimler,18,3,False
+L000821,undergraduate,Mühendislik,13,0,False
+L000822,undergraduate,Sosyal Bilimler,10,1,False
+L000823,postgraduate,Temel Bilimler,15,0,False
+L000824,postgraduate,Mühendislik,24,1,False
+L000825,staff,Bilişim Teknolojileri,18,2,False
+L000826,undergraduate,Bilişim Teknolojileri,,1,True
+L000827,postgraduate,Bilişim Teknolojileri,25,0,True
+L000828,undergraduate,İşletme,7,1,False
+L000829,undergraduate,Mühendislik,7,0,False
+L000830,undergraduate,Mimarlık,9,1,True
+L000831,undergraduate,Sosyal Bilimler,13,0,False
+L000832,undergraduate,İşletme,9,0,False
+L000833,undergraduate,Bilişim Teknolojileri,24,1,True
+L000834,undergraduate,İşletme,5,0,False
+L000835,undergraduate,Bilişim Teknolojileri,17,0,False
+L000836,postgraduate,İşletme,36,0,False
+L000837,staff,Mühendislik,23,1,False
+L000838,undergraduate,Sosyal Bilimler,8,0,False
+L000839,postgraduate,İşletme,14,0,True
+L000840,undergraduate,Bilişim Teknolojileri,15,1,False
+L000841,postgraduate,Mühendislik,17,1,False
+L000842,postgraduate,Sosyal Bilimler,26,1,False
+L000843,postgraduate,Mimarlık,26,1,False
+L000844,postgraduate,Mühendislik,19,1,False
+L000845,undergraduate,İşletme,14,0,True
+L000846,postgraduate,Mimarlık,10,0,True
+L000847,staff,İşletme,22,0,False
+L000848,undergraduate,İşletme,8,1,False
+L000849,undergraduate,Bilişim Teknolojileri,14,1,False
+L000850,postgraduate,İşletme,11,1,False
+L000851,undergraduate,Temel Bilimler,14,2,False
+L000852,undergraduate,İşletme,18,1,True
+L000853,undergraduate,Temel Bilimler,10,0,False
+L000854,undergraduate,Bilişim Teknolojileri,9,1,False
+L000855,undergraduate,Sosyal Bilimler,6,1,False
+L000856,undergraduate,Mühendislik,11,3,False
+L000857,staff,Mimarlık,,0,False
+L000858,undergraduate,Bilişim Teknolojileri,9,1,False
+L000859,undergraduate,Temel Bilimler,7,0,False
+L000860,postgraduate,Temel Bilimler,55,0,True
+L000861,undergraduate,İşletme,16,0,False
+L000862,undergraduate,Mühendislik,13,2,False
+L000863,postgraduate,Temel Bilimler,10,2,False
+L000864,undergraduate,Temel Bilimler,10,1,False
+L000865,postgraduate,Mühendislik,24,1,True
+L000866,undergraduate,Mühendislik,18,1,False
+L000867,undergraduate,Bilişim Teknolojileri,6,1,False
+L000868,undergraduate,Mimarlık,11,0,False
+L000869,undergraduate,Sosyal Bilimler,22,0,False
+L000870,postgraduate,Temel Bilimler,19,0,False
+L000871,postgraduate,İşletme,14,0,False
+L000872,undergraduate,Mühendislik,6,1,False
+L000873,undergraduate,Bilişim Teknolojileri,26,1,False
+L000874,postgraduate,Mühendislik,27,1,False
+L000875,staff,İşletme,41,2,False
+L000876,undergraduate,Bilişim Teknolojileri,8,1,False
+L000877,undergraduate,Sosyal Bilimler,17,0,True
+L000878,undergraduate,Mühendislik,15,1,False
+L000879,undergraduate,Sosyal Bilimler,17,1,False
+L000880,undergraduate,Mimarlık,,2,False
+L000881,postgraduate,Bilişim Teknolojileri,19,2,True
+L000882,undergraduate,İşletme,15,1,True
+L000883,undergraduate,Temel Bilimler,8,0,True
+L000884,undergraduate,Mühendislik,7,1,False
+L000885,postgraduate,Mühendislik,,1,False
+L000886,postgraduate,İşletme,19,1,False
+L000887,postgraduate,Mühendislik,6,0,False
+L000888,postgraduate,Bilişim Teknolojileri,14,1,False
+L000889,undergraduate,Sosyal Bilimler,14,0,True
+L000890,staff,Mühendislik,20,1,True
+L000891,postgraduate,Mühendislik,24,1,False
+L000892,undergraduate,İşletme,9,2,False
+L000893,postgraduate,Mimarlık,19,2,False
+L000894,undergraduate,İşletme,15,1,False
+L000895,undergraduate,Mimarlık,21,0,True
+L000896,undergraduate,İşletme,18,0,True
+L000897,undergraduate,Bilişim Teknolojileri,9,0,False
+L000898,undergraduate,Temel Bilimler,19,1,True
+L000899,postgraduate,Temel Bilimler,13,1,False
+L000900,postgraduate,Temel Bilimler,7,0,True
+L000901,undergraduate,Mühendislik,11,1,False
+L000902,postgraduate,Mimarlık,21,0,False
+L000903,postgraduate,İşletme,16,0,False
+L000904,undergraduate,İşletme,9,1,True
+L000905,staff,Mimarlık,16,1,False
+L000906,undergraduate,İşletme,12,3,True
+L000907,postgraduate,Mimarlık,14,2,False
+L000908,undergraduate,Sosyal Bilimler,20,1,True
+L000909,postgraduate,İşletme,20,1,False
+L000910,postgraduate,Temel Bilimler,16,1,False
+L000911,staff,İşletme,17,2,False
+L000912,staff,Bilişim Teknolojileri,11,1,True
+L000913,postgraduate,Mühendislik,11,1,False
+L000914,staff,Temel Bilimler,44,1,False
+L000915,undergraduate,Sosyal Bilimler,5,0,False
+L000916,undergraduate,Mimarlık,13,1,False
+L000917,undergraduate,Mühendislik,16,1,False
+L000918,undergraduate,Mühendislik,12,0,False
+L000919,undergraduate,Temel Bilimler,18,1,True
+L000920,undergraduate,Temel Bilimler,9,0,False
+L000921,undergraduate,İşletme,21,1,True
+L000922,undergraduate,Bilişim Teknolojileri,11,0,False
+L000923,undergraduate,Temel Bilimler,5,0,False
+L000924,undergraduate,Temel Bilimler,12,0,False
+L000925,undergraduate,Sosyal Bilimler,12,1,True
+L000926,postgraduate,Sosyal Bilimler,17,1,False
+L000927,postgraduate,Sosyal Bilimler,9,1,False
+L000928,undergraduate,Mühendislik,12,0,False
+L000929,postgraduate,Mimarlık,27,0,False
+L000930,undergraduate,İşletme,15,0,False
+L000931,postgraduate,İşletme,15,1,False
+L000932,undergraduate,Bilişim Teknolojileri,9,1,False
+L000933,undergraduate,Mühendislik,15,1,False
+L000934,staff,Bilişim Teknolojileri,35,1,False
+L000935,undergraduate,İşletme,12,1,False
+L000936,postgraduate,Temel Bilimler,17,2,True
+L000937,staff,Mimarlık,52,2,False
+L000938,postgraduate,Mimarlık,11,1,False
+L000939,undergraduate,Bilişim Teknolojileri,15,1,False
+L000940,postgraduate,Temel Bilimler,10,0,False
+L000941,undergraduate,Bilişim Teknolojileri,8,0,False
+L000942,staff,Mimarlık,26,2,False
+L000943,undergraduate,Mühendislik,37,2,True
+L000944,staff,Mühendislik,10,0,False
+L000945,staff,Bilişim Teknolojileri,20,1,False
+L000946,undergraduate,Bilişim Teknolojileri,20,1,False
+L000947,undergraduate,Sosyal Bilimler,14,0,False
+L000948,undergraduate,İşletme,23,1,True
+L000949,undergraduate,Sosyal Bilimler,9,0,True
+L000950,postgraduate,Mimarlık,38,0,False
+L000951,undergraduate,Mimarlık,8,0,True
+L000952,undergraduate,İşletme,15,0,False
+L000953,postgraduate,Sosyal Bilimler,17,0,False
+L000954,undergraduate,İşletme,17,1,True
+L000955,undergraduate,Mimarlık,14,0,True
+L000956,postgraduate,Mimarlık,21,0,False
+L000957,undergraduate,Bilişim Teknolojileri,22,1,False
+L000958,postgraduate,Mimarlık,27,0,False
+L000959,undergraduate,Mimarlık,8,0,True
+L000960,undergraduate,Mimarlık,13,0,False
+L000961,undergraduate,İşletme,7,1,False
+L000962,staff,Mühendislik,33,0,False
+L000963,staff,Sosyal Bilimler,13,2,True
+L000964,undergraduate,Sosyal Bilimler,10,1,False
+L000965,undergraduate,Mühendislik,5,1,True
+L000966,undergraduate,İşletme,15,1,True
+L000967,undergraduate,İşletme,19,0,False
+L000968,postgraduate,Temel Bilimler,14,0,False
+L000969,postgraduate,Temel Bilimler,24,0,False
+L000970,undergraduate,Sosyal Bilimler,14,2,False
+L000971,undergraduate,Temel Bilimler,18,1,True
+L000972,undergraduate,Bilişim Teknolojileri,13,3,True
+L000973,undergraduate,Bilişim Teknolojileri,18,1,False
+L000974,undergraduate,Mühendislik,14,1,False
+L000975,undergraduate,Mühendislik,12,1,False
+L000976,undergraduate,Temel Bilimler,5,2,False
+L000977,undergraduate,Mühendislik,5,1,False
+L000978,undergraduate,Sosyal Bilimler,15,1,False
+L000979,undergraduate,Bilişim Teknolojileri,17,0,True
+L000980,staff,İşletme,9,1,False
+L000981,undergraduate,Temel Bilimler,6,1,False
+L000982,undergraduate,Bilişim Teknolojileri,13,2,False
+L000983,postgraduate,İşletme,19,1,True
+L000984,postgraduate,Mühendislik,19,0,False
+L000985,postgraduate,Sosyal Bilimler,10,2,False
+L000986,postgraduate,Mimarlık,20,1,True
+L000987,postgraduate,Mühendislik,27,0,False
+L000988,undergraduate,İşletme,10,0,False
+L000989,undergraduate,Sosyal Bilimler,8,0,True
+L000990,undergraduate,Mimarlık,11,0,True
+L000991,undergraduate,Mimarlık,22,1,False
+L000992,undergraduate,Temel Bilimler,6,2,False
+L000993,undergraduate,Mühendislik,19,2,True
+L000994,undergraduate,Mühendislik,11,0,False
+L000995,postgraduate,İşletme,37,1,True
+L000996,undergraduate,Mimarlık,21,0,False
+L000997,undergraduate,Bilişim Teknolojileri,9,0,False
+L000998,undergraduate,İşletme,12,0,True
+L000999,undergraduate,Sosyal Bilimler,12,1,True
+L001000,postgraduate,Sosyal Bilimler,18,0,False
+L001001,undergraduate,Bilişim Teknolojileri,18,2,True
+L001002,postgraduate,İşletme,26,0,False
+L001003,postgraduate,Mimarlık,83,1,True
+L001004,staff,Sosyal Bilimler,25,2,False
+L001005,postgraduate,İşletme,25,1,False
+L001006,undergraduate,Sosyal Bilimler,9,0,False
+L001007,postgraduate,Bilişim Teknolojileri,,0,True
+L001008,undergraduate,Bilişim Teknolojileri,9,0,False
+L001009,undergraduate,Sosyal Bilimler,8,0,False
+L001010,undergraduate,Temel Bilimler,20,0,False
+L001011,undergraduate,Temel Bilimler,5,1,False
+L001012,postgraduate,Mimarlık,34,0,False
+L001013,undergraduate,Bilişim Teknolojileri,13,0,False
+L001014,postgraduate,Temel Bilimler,21,3,False
+L001015,undergraduate,Mimarlık,12,1,True
+L001016,undergraduate,Bilişim Teknolojileri,22,0,True
+L001017,postgraduate,Mühendislik,32,1,True
+L001018,undergraduate,Temel Bilimler,8,1,False
+L001019,undergraduate,Mimarlık,,0,False
+L001020,postgraduate,Mimarlık,19,0,False
+L001021,staff,İşletme,17,2,False
+L001022,undergraduate,İşletme,10,0,True
+L001023,staff,Mühendislik,15,0,False
+L001024,undergraduate,Mühendislik,19,1,False
+L001025,postgraduate,Mühendislik,18,0,False
+L001026,undergraduate,İşletme,14,1,False
+L001027,postgraduate,Sosyal Bilimler,21,1,False
+L001028,postgraduate,Mühendislik,8,0,False
+L001029,staff,Sosyal Bilimler,18,1,False
+L001030,undergraduate,Sosyal Bilimler,6,0,True
+L001031,staff,Mimarlık,46,2,False
+L001032,staff,İşletme,20,0,False
+L001033,staff,Temel Bilimler,27,2,False
+L001034,undergraduate,Sosyal Bilimler,10,0,False
+L001035,undergraduate,Mühendislik,10,1,False
+L001036,postgraduate,Mühendislik,9,1,True
+L001037,postgraduate,Bilişim Teknolojileri,19,1,True
+L001038,undergraduate,Mühendislik,12,0,False
+L001039,undergraduate,Mimarlık,8,2,False
+L001040,staff,Mimarlık,45,2,False
+L001041,undergraduate,Mimarlık,,0,False
+L001042,postgraduate,Mühendislik,25,1,True
+L001043,postgraduate,Mimarlık,12,1,False
+L001044,undergraduate,İşletme,24,1,False
+L001045,undergraduate,Sosyal Bilimler,15,0,False
+L001046,undergraduate,Sosyal Bilimler,7,0,False
+L001047,staff,Mühendislik,31,0,False
+L001048,postgraduate,Bilişim Teknolojileri,30,1,False
+L001049,undergraduate,İşletme,12,1,False
+L001050,postgraduate,Mimarlık,25,0,False
+L001051,postgraduate,Bilişim Teknolojileri,11,1,False
+L001052,undergraduate,Sosyal Bilimler,13,2,False
+L001053,undergraduate,Temel Bilimler,12,1,False
+L001054,staff,İşletme,27,1,False
+L001055,undergraduate,İşletme,25,0,True
+L001056,postgraduate,Sosyal Bilimler,17,0,False
+L001057,undergraduate,Mühendislik,9,0,False
+L001058,undergraduate,Mühendislik,11,2,True
+L001059,undergraduate,Mühendislik,9,1,False
+L001060,postgraduate,Bilişim Teknolojileri,11,0,False
+L001061,undergraduate,Bilişim Teknolojileri,15,1,False
+L001062,postgraduate,Mühendislik,27,3,False
+L001063,undergraduate,İşletme,7,1,False
+L001064,undergraduate,İşletme,12,1,True
+L001065,undergraduate,Sosyal Bilimler,7,1,False
+L001066,postgraduate,İşletme,22,1,False
+L001067,undergraduate,İşletme,5,1,True
+L001068,undergraduate,Mimarlık,,1,True
+L001069,staff,Bilişim Teknolojileri,12,2,False
+L001070,staff,Bilişim Teknolojileri,,1,False
+L001071,staff,Mimarlık,28,1,False
+L001072,staff,Sosyal Bilimler,11,2,False
+L001073,undergraduate,İşletme,14,1,False
+L001074,undergraduate,Bilişim Teknolojileri,9,0,False
+L001075,undergraduate,Sosyal Bilimler,9,1,False
+L001076,undergraduate,Mimarlık,16,0,False
+L001077,undergraduate,Sosyal Bilimler,12,1,False
+L001078,postgraduate,Mühendislik,39,0,False
+L001079,undergraduate,Mühendislik,9,1,True
+L001080,postgraduate,Temel Bilimler,18,0,False
+L001081,undergraduate,İşletme,13,0,False
+L001082,undergraduate,İşletme,13,2,False
+L001083,undergraduate,Mühendislik,7,0,True
+L001084,undergraduate,Sosyal Bilimler,7,0,False
+L001085,undergraduate,Temel Bilimler,20,1,False
+L001086,undergraduate,İşletme,20,1,True
+L001087,undergraduate,Mimarlık,15,1,False
+L001088,undergraduate,Bilişim Teknolojileri,8,0,False
+L001089,undergraduate,Temel Bilimler,3,1,False
+L001090,undergraduate,Bilişim Teknolojileri,8,0,True
+L001091,postgraduate,Sosyal Bilimler,12,1,False
+L001092,undergraduate,Mimarlık,15,0,True
+L001093,undergraduate,Mimarlık,17,2,False
+L001094,postgraduate,Mühendislik,11,0,False
+L001095,postgraduate,Mühendislik,33,0,False
+L001096,postgraduate,Mühendislik,21,0,False
+L001097,undergraduate,Sosyal Bilimler,16,1,False
+L001098,postgraduate,Bilişim Teknolojileri,33,1,False
+L001099,undergraduate,Bilişim Teknolojileri,7,1,True
+L001100,undergraduate,Sosyal Bilimler,9,2,False
+L001101,undergraduate,Sosyal Bilimler,10,1,False
+L001102,postgraduate,İşletme,39,0,False
+L001103,undergraduate,Sosyal Bilimler,9,0,False
+L001104,undergraduate,Mimarlık,16,1,False
+L001105,undergraduate,Temel Bilimler,,1,False
+L001106,undergraduate,Mühendislik,12,0,False
+L001107,undergraduate,İşletme,,0,False
+L001108,staff,Temel Bilimler,39,2,False
+L001109,undergraduate,İşletme,25,1,True
+L001110,staff,Temel Bilimler,17,0,False
+L001111,postgraduate,Mimarlık,27,0,False
+L001112,undergraduate,İşletme,9,0,True
+L001113,undergraduate,Mühendislik,11,0,False
+L001114,postgraduate,İşletme,19,2,False
+L001115,undergraduate,Bilişim Teknolojileri,7,1,False
+L001116,postgraduate,Sosyal Bilimler,26,2,True
+L001117,postgraduate,Bilişim Teknolojileri,8,2,False
+L001118,postgraduate,Temel Bilimler,13,1,False
+L001119,undergraduate,Sosyal Bilimler,12,1,False
+L001120,postgraduate,Bilişim Teknolojileri,21,1,False
+L001121,undergraduate,Mimarlık,14,0,True
+L001122,undergraduate,Bilişim Teknolojileri,11,1,True
+L001123,undergraduate,Sosyal Bilimler,19,1,False
+L001124,undergraduate,Sosyal Bilimler,23,2,False
+L001125,staff,İşletme,20,1,False
+L001126,undergraduate,Temel Bilimler,12,1,False
+L001127,undergraduate,İşletme,8,0,False
+L001128,staff,Temel Bilimler,35,3,False
+L001129,undergraduate,Sosyal Bilimler,16,0,True
+L001130,undergraduate,Mühendislik,21,0,True
+L001131,staff,Bilişim Teknolojileri,30,2,False
+L001132,undergraduate,Mimarlık,26,0,False
+L001133,undergraduate,İşletme,23,1,False
+L001134,undergraduate,Temel Bilimler,13,1,True
+L001135,postgraduate,İşletme,10,1,False
+L001136,postgraduate,Bilişim Teknolojileri,15,1,False
+L001137,postgraduate,Temel Bilimler,17,1,False
+L001138,postgraduate,Mühendislik,9,3,False
+L001139,postgraduate,Mimarlık,25,0,False
+L001140,undergraduate,Mühendislik,12,1,True
+L001141,postgraduate,İşletme,19,2,False
+L001142,postgraduate,Temel Bilimler,7,1,False
+L001143,undergraduate,Sosyal Bilimler,10,2,True
+L001144,postgraduate,Sosyal Bilimler,24,0,False
+L001145,staff,Mühendislik,22,3,False
+L001146,undergraduate,Sosyal Bilimler,8,1,False
+L001147,undergraduate,Bilişim Teknolojileri,18,1,False
+L001148,postgraduate,Mimarlık,18,1,True
+L001149,undergraduate,Mimarlık,11,1,False
+L001150,undergraduate,Sosyal Bilimler,10,1,True
+L001151,undergraduate,Temel Bilimler,8,0,True
+L001152,undergraduate,Mimarlık,18,1,False
+L001153,staff,Mühendislik,18,3,False
+L001154,undergraduate,Temel Bilimler,5,0,True
+L001155,undergraduate,Bilişim Teknolojileri,7,0,True
+L001156,postgraduate,Mühendislik,13,2,False
+L001157,undergraduate,Bilişim Teknolojileri,6,0,False
+L001158,undergraduate,Temel Bilimler,6,0,True
+L001159,undergraduate,İşletme,20,1,True
+L001160,undergraduate,Mühendislik,9,2,False
+L001161,undergraduate,Bilişim Teknolojileri,9,1,False
+L001162,undergraduate,İşletme,12,0,False
+L001163,undergraduate,Temel Bilimler,14,1,True
+L001164,staff,Temel Bilimler,30,1,True
+L001165,postgraduate,Mimarlık,17,1,True
+L001166,postgraduate,Mimarlık,59,0,False
+L001167,postgraduate,Sosyal Bilimler,16,1,False
+L001168,postgraduate,Bilişim Teknolojileri,10,3,False
+L001169,undergraduate,Bilişim Teknolojileri,6,0,True
+L001170,undergraduate,Temel Bilimler,8,2,False
+L001171,postgraduate,İşletme,37,0,False
+L001172,undergraduate,Mühendislik,19,1,True
+L001173,undergraduate,Sosyal Bilimler,17,1,False
+L001174,staff,Mühendislik,14,1,False
+L001175,staff,Bilişim Teknolojileri,24,1,False
+L001176,undergraduate,Mühendislik,24,2,True
+L001177,staff,Mühendislik,22,1,True
+L001178,staff,Sosyal Bilimler,9,2,False
+L001179,undergraduate,Mühendislik,8,2,False
+L001180,undergraduate,Temel Bilimler,10,0,False
+L001181,undergraduate,Sosyal Bilimler,11,1,False
+L001182,undergraduate,Mimarlık,26,1,True
+L001183,undergraduate,Mimarlık,13,0,False
+L001184,undergraduate,Mimarlık,16,1,False
+L001185,undergraduate,Temel Bilimler,10,0,False
+L001186,undergraduate,Sosyal Bilimler,16,2,False
+L001187,undergraduate,Mühendislik,11,0,False
+L001188,postgraduate,Mühendislik,23,0,True
+L001189,undergraduate,İşletme,21,1,False
+L001190,undergraduate,İşletme,8,0,False
+L001191,postgraduate,İşletme,,1,False
+L001192,undergraduate,Bilişim Teknolojileri,25,1,True
+L001193,postgraduate,Temel Bilimler,8,1,True
